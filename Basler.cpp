@@ -11,6 +11,8 @@
 //                
 // AUTHOR:        Nazim Dugan, dugannaz@gmail.com, 2014
 //
+// COPYRIGHT:     University of California, San Francisco, 2006-2015
+//                100X Imaging Inc, 2008
 
 #include "Basler.h"
 #include <cstdio>
